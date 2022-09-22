@@ -1,7 +1,7 @@
 {
   "name": "companyreact-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://timothymureithi.github.io/Group-5-React-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
